@@ -7,6 +7,8 @@ This is a [@rafaelbreno's](https://github.com/rafaelbreno) project called _Fiusk
     - [ ] Queueing Service
     - [ ] Key-Value Database
     - [ ] Blob Storage
+- [ ] Community
+    - [ ] Discord?
 - [ ] Get Some art
     - [ ] Profile pic
     - [ ] Readme Banner
