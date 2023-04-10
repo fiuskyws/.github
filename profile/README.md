@@ -1,3 +1,3 @@
 # Fiusky Web Services
 
-This is a [@rafaelbreno](https://github.com/rafaelbreno) project to study software development with focus on general services: queueing, database, caching, blob storage, etc.
+This is a [@rafaelbreno's](https://github.com/rafaelbreno) project called _Fiusky Web Services_ (inspired on AWS), focused on software development studies with focus on the development of general services: queueing, database, caching, blob storage, etc.
