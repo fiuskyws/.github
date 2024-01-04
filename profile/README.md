@@ -6,7 +6,7 @@ This is a [@rafaelbreno's](https://github.com/rafaelbreno) project called _Fiusk
 
 #### Base - PoC Release 1:
 - [x] [Pegasus - Queueing Service](https://github.com/fiuskyws/pegasus/releases/tag/v0.0.0-poc-r1)
-- [ ] Thoth - Key-Value Database
+- [x] [Thoth - Key-Value Database](https://github.com/fiuskyws/thoth/releases/tag/v0.0.0-poc-r1)
 - [ ] Blob - Blob Storage
 
 #### Event Sourcing - PoC Release 2:
